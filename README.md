@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrapy-00FF84?style=for-the-badge&logo=python&logoColor=black"/>
@@ -17,8 +18,8 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atuo como **estagiário** no banco do estado e também como **freelancer** na área de dados.  
-💻 Trabalho com visualização de dados, pipelines e coleta de dados via scraping.  
+🎯 Atuo como **estagiário** no banco estadual e também como **freelancer** na área de dados.  
+💻 Trabalho com visualização de dados, criação de pipelines, consultas SQL e coleta de dados via scraping.  
 📊 Tenho paixão por transformar dados em **decisões estratégicas** e insights acionáveis.
 
 ---
@@ -28,38 +29,38 @@
 - **Linguagens:** Python, SQL  
 - **Visualização:** Power BI, Plotly, Matplotlib, Seaborn  
 - **Engenharia de Dados:** Airflow, Docker, BigQuery  
-- **Coleta de Dados:** Scrapy, BeautifulSoup, APIs REST,Playwright
-- **Banco de Dados:** PostgreSQL, SQLite, SSIS
+- **Coleta de Dados:** Scrapy, BeautifulSoup, Playwright, APIs REST  
+- **Banco de Dados:** PostgreSQL, SQLite, SQL Server (SSIS)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🚕 [Dashboard Uber Data](https://github.com/FellipeOlliveira/Dashboard_Uber_data)
-Visualização de dados de corridas fictícias do Uber (2024), com KPIs de *Overall, Revenue, Cancelled* e *Rating*.  
-📊 Feito power BI para uma melhor visualização.
+### 🚕 [Dashboard Uber Data](https://github.com/FellipeOlliveira/Dashboard_Uber_data)  
+📊 Projeto de visualização com dados fictícios de corridas da Uber (2024), incluindo KPIs como *Revenue, Cancelled* e *Rating*.  
+🎯 Desenvolvido com Power BI e preparação de dados via Python e SQL.
 
 ---
 
-### 🧬 [Chagas Dashboard (2005–2023)](https://github.com/FellipeOlliveira/Chagas_Dashboard)
-EDA completo sobre a doença de Chagas, com foco no comportamento dos dados ao longo dos anos.  
-🎯 Destaque para a exploração de tendências e análise temporal dos dados de saúde pública.
+### 🧬 [Chagas Dashboard (2005–2023)](https://github.com/FellipeOlliveira/Chagas_Dashboard)  
+📈 Análise exploratória da Doença de Chagas com foco em tendências e evolução temporal.  
+🔍 Utiliza Python e SQL para limpeza e estruturação dos dados antes da visualização.
 
 ---
 
-### 🏢 [Dados Abertos do CNPJ - Pipeline com Scrapy](https://github.com/FellipeOlliveira/dados-abertos-CNPJ-BRASIL)
-Pipeline automatizado utilizando **Scrapy puro** para baixar todos os dados da Receita Federal sobre CNPJs.  
-⚙️ Demonstração prática de engenharia de dados aplicada à coleta em larga escala.
+### 🏢 [Dados Abertos do CNPJ - Pipeline com Scrapy](https://github.com/FellipeOlliveira/dados-abertos-CNPJ-BRASIL)  
+⚙️ Pipeline automatizado utilizando **Scrapy** para baixar e organizar os dados de CNPJs da Receita Federal.  
+🔄 Foco na engenharia de dados e manipulação eficiente de grandes volumes.
 
 ---
 
 <details>
   <summary>📂 O que faço como freelancer?</summary>
 
-- Desenvolvimento de dashboards com Power BI 
+- Desenvolvimento de dashboards com Power BI  
 - Coleta de dados com web scraping automatizado  
-- Criação de pipelines e ETL com Airflow, Python  
-- Análises exploratórias e geração de relatórios interativos
+- Criação de pipelines e ETL com Airflow, Python e SQL  
+- Análises exploratórias e geração de relatórios interativos  
 </details>
 
 ---
