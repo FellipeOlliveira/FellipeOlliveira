@@ -13,7 +13,7 @@ Atuo como **estagiário** na área de dados e também como **freelancer**, desen
 🔍 Tenho paixão por descobrir padrões, automatizar processos e entregar valor real através dos dados.  
 
 ---
-
+        
 ## 🚀 Principais Tecnologias
 
 **Linguagens e Bibliotecas**  
@@ -60,7 +60,7 @@ Executo projetos sob demanda para clientes, incluindo web scraping, criação de
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fellipeolliveira)  
-📧 Email: seuemail@gmail.com *(altere para o seu)*
+📧 Email: marcosf1625@gmail.com
 
 ---
 
