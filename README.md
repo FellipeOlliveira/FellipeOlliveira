@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atuo como **estagiário** e também como **freelancer** na área de dados.  
+🎯 Atuo como **estagiário** no banco do estado e também como **freelancer** na área de dados.  
 💻 Trabalho com visualização de dados, pipelines e coleta de dados via scraping.  
 📊 Tenho paixão por transformar dados em **decisões estratégicas** e insights acionáveis.
 
@@ -27,9 +27,9 @@
 
 - **Linguagens:** Python, SQL  
 - **Visualização:** Power BI, Plotly, Matplotlib, Seaborn  
-- **Engenharia de Dados:** Airflow, dbt, Docker, BigQuery  
-- **Coleta de Dados:** Scrapy, BeautifulSoup, APIs REST  
-- **Banco de Dados:** PostgreSQL, SQLite
+- **Engenharia de Dados:** Airflow, Docker, BigQuery  
+- **Coleta de Dados:** Scrapy, BeautifulSoup, APIs REST,Playwright
+- **Banco de Dados:** PostgreSQL, SQLite, SSIS
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 🚕 [Dashboard Uber Data](https://github.com/FellipeOlliveira/Dashboard_Uber_data)
 Visualização de dados de corridas fictícias do Uber (2024), com KPIs de *Overall, Revenue, Cancelled* e *Rating*.  
-📊 Feito com Python e bibliotecas de visualização para análise executiva.
+📊 Feito power BI para uma melhor visualização.
 
 ---
 
@@ -53,22 +53,12 @@ Pipeline automatizado utilizando **Scrapy puro** para baixar todos os dados da R
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FellipeOlliveira&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeOlliveira&layout=compact" />
-</p>
-
----
-
 <details>
   <summary>📂 O que faço como freelancer?</summary>
 
-- Desenvolvimento de dashboards com Power BI e Dash  
+- Desenvolvimento de dashboards com Power BI 
 - Coleta de dados com web scraping automatizado  
-- Criação de pipelines e ETL com Airflow, dbt e Python  
+- Criação de pipelines e ETL com Airflow, Python  
 - Análises exploratórias e geração de relatórios interativos
 </details>
 
