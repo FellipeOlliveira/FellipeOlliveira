@@ -18,8 +18,8 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atuo como **estagiário** no banco estadual e também como **freelancer** na área de dados.  
-💻 Trabalho com visualização de dados, criação de pipelines, consultas SQL e coleta de dados via scraping.  
+🎯 Atuo como **Analista de Dados JR.** no setor de inovação do frigorifico Santa Cruz e também como **freelancer** na área de dados.  
+💻 Trabalho com visualização de dados, criação de pipelines, consultas SQL, coleta de dados via scraping e otimização de processos.  
 📊 Tenho paixão por transformar dados em **decisões estratégicas** e insights acionáveis.
 
 ---
