@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Fellipe Oliveira</h1>
+<h1 align="center">👋 Olá, eu sou Fellipe Oliveira</h1>
 
 <p align="center"><em>Analista de Dados | Visualização • Engenharia de Dados • Web Scraping</em></p>
 
