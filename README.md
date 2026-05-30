@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atuo como **Analista de Dados JR.** no setor de inovação do frigorifico Santa Cruz e também como **freelancer** na área de dados.  
+🎯 Atuo como **Analista de Dados JR.** no setor de inovação do Chama serviços e também como **freelancer** na área de dados.  
 💻 Trabalho com visualização de dados, criação de pipelines, consultas SQL, coleta de dados via scraping e otimização de processos.  
 📊 Tenho paixão por transformar dados em **decisões estratégicas** e insights acionáveis.
 
@@ -28,7 +28,7 @@
 
 - **Linguagens:** Python, SQL  
 - **Visualização:** Power BI, Plotly, Matplotlib, Seaborn  
-- **Engenharia de Dados:** Airflow, Docker, BigQuery  
+- **Engenharia de Dados:** Airflow, Docker, BigQuery,Azure e AWS
 - **Coleta de Dados:** Scrapy, BeautifulSoup, Playwright, APIs REST  
 - **Banco de Dados:** PostgreSQL, SQLite, SQL Server (SSIS)
 
